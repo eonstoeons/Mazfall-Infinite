@@ -1,4 +1,4 @@
-# Mazfall_Zombie_Alpha_v0.5
+# Mazfall_Zombie_Alpha_v0.02
 
 > *Doomfall 0.1's soul · Mazfall α0.02's spine · infinite recursive corridors, infinite undead, one overheating chaingun.*
 
